@@ -11,4 +11,4 @@ If you want to support this project, please checkout the patreon link and buy a 
 
 PS: Checkout LEARN.md to find out more about the platform itself...
 
-# Important! I am currently changing the platforms domain, therefor links on the landing page are not yet correct.
+# Important! I am currently changing the platforms domain, the links on the landing page are not yet correct.
