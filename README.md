@@ -10,3 +10,5 @@ I hope this project helps many people, signup now to check it out.
 If you want to support this project, please checkout the patreon link and buy a **trusted** badge or a **funder** badge for your account on the platform.
 
 PS: Checkout LEARN.md to find out more about the platform itself...
+
+# Important! I am currently changing the platforms domain, therefor links on the landing page are not yet correct.
