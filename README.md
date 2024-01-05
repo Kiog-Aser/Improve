@@ -4,7 +4,21 @@
 ## Mission
 Democratizing education through a free, community-driven knowledge-sharing platform It is my mission with this project to be able to spread free, community-based education to everyone. This means that we should all help each other by sharing our knowledge.
 
-On Improve. anyone can sign up and access all content, or share their own. There is a section to share valuable content like blog posts and YouTube videos, and a section to share personal things.
+
+## Features
+
+- Open access: Everyone can sign up and access all content for free.
+- Contribute your knowledge: Share valuable content like blog posts, YouTube videos, and more.
+- Personal sharing: Share personal experiences and connect with others.
+- User badges: Support the project and gain recognition with optional Trusted and Funder badges.
+
+
+## Technical details:
+
+- Platform: Markdown-based for easy and accessible content creation.
+- Content Categories: Structured sections for focused navigation.
+- Search Functionality: Find relevant content quickly and easily.
+- User Accounts: Personalized experience with saved content and profile options.
 
 I hope this project helps many people, signup now to check it out. 
 
