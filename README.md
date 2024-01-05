@@ -13,12 +13,12 @@ Democratizing education through a free, community-driven knowledge-sharing platf
 - User badges: Support the project and gain recognition with optional Trusted and Funder badges.
 
 
-## Technical details:
+## Technical details
 
-- Platform: Markdown-based for easy and accessible content creation.
-- Content Categories: Structured sections for focused navigation.
-- Search Functionality: Find relevant content quickly and easily.
-- User Accounts: Personalized experience with saved content and profile options.
+* Platform: Markdown-based for easy and accessible content creation.
+* Content Categories: Structured sections for focused navigation.
+* Search Functionality: Find relevant content quickly and easily.
+* User Accounts: Personalized experience with saved content and profile options.
 
 I hope this project helps many people, signup now to check it out. 
 
