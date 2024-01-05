@@ -1,7 +1,8 @@
 # Improve
-**Welcome to the Improve. Project.**
+**Welcome to the Improve. Project: Knowledge Sharing Platform.**
 
-It is my mission with this project to be able to spread free, community-based education to everyone. This means that we should all help each other by sharing our knowledge.
+## Mission
+Democratizing education through a free, community-driven knowledge-sharing platform It is my mission with this project to be able to spread free, community-based education to everyone. This means that we should all help each other by sharing our knowledge.
 
 On Improve. anyone can sign up and access all content, or share their own. There is a section to share valuable content like blog posts and YouTube videos, and a section to share personal things.
 
